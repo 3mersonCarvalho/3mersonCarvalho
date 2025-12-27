@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/3mersonCarvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="3mersonCarvalho" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Emerson Carvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emerson Carvalho" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emerson-carvalho-21ba87164/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emerson Carvalho" height="30" width="40" /></a>
 <a href="https://instagram.com/3mersonf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3mersonf" height="30" width="40" /></a>
 <a href="https://medium.com/@3mersonf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@3mersonf" height="30" width="40" /></a>
 <a href="https://discord.gg/3mersonf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3mersonf" height="30" width="40" /></a>
