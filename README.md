@@ -10,7 +10,7 @@
 
 - 🤝 I'm looking for help with **Data Structures**
 
-- 💬 Ask me about **Python, Fortran**
+- 💬 Ask me about **Python and Fortran**
 
 - 📫 How to reach me **emer130905@gmail.com**
 
